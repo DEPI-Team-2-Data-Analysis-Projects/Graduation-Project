@@ -1,2 +1,2 @@
-# Mini-Project-Graduation-Project
-Mini Projects and Graduation Project 
+# Graduation-Project
+Graduation Project 
